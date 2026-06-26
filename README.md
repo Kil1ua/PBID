@@ -37,6 +37,10 @@ With this application, it is possible to collect information from open-sources (
    ```bash
    go build -o pbid OSM.go
    ```
+   Or run it right away:
+   ```bash
+   go run OSM.go
+   ```
    
 ---
 
